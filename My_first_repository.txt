@@ -1,0 +1,3 @@
+Мій перший репозиторій
+https://github.com/Pussynator/Polishchuk_OIT_LR_1.git
+git@github.com:Pussynator/Polishchuk_OIT_LR_1.git
